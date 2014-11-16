@@ -1,0 +1,38 @@
+﻿Build started 10/07/2014 13:05:16.
+     1>Project "C:\Users\7zereh\Documents\Visual Studio 2013\Projects\Solution4\Hodograph\Hodograph.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\programi\visual studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Hodograph.cpp
+         Hodograph.cpp
+     1>d:\programi\freeglut\include\gl\glui.h(880): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(21): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(65): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(69): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(95): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(96): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(111): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(123): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(152): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(158): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(160): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(174): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(178): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(192): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(204): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(212): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(217): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(219): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(220): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(223): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(226): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(235): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(251): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(254): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\7zereh\documents\visual studio 2013\projects\solution4\hodograph\hodograph.cpp(255): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+       Link:
+         D:\programi\visual studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\7zereh\Documents\Visual Studio 2013\Projects\Solution4\Debug\Hodograph.exe" /INCREMENTAL /NOLOGO OpenGl32.lib freetype253.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\7zereh\Documents\Visual Studio 2013\Projects\Solution4\Debug\Hodograph.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\7zereh\Documents\Visual Studio 2013\Projects\Solution4\Debug\Hodograph.lib" /MACHINE:X86 Debug\Hodograph.obj
+         Hodograph.vcxproj -> C:\Users\7zereh\Documents\Visual Studio 2013\Projects\Solution4\Debug\Hodograph.exe
+     1>Done Building Project "C:\Users\7zereh\Documents\Visual Studio 2013\Projects\Solution4\Hodograph\Hodograph.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.41
