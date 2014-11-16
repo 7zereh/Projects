@@ -1,0 +1,9 @@
+c:\users\7zereh\documents\visual studio 2013\Projects\FastFourieTransform\FFT\bin\Debug\FFT.exe.config
+c:\users\7zereh\documents\visual studio 2013\Projects\FastFourieTransform\FFT\bin\Debug\FFT.exe
+c:\users\7zereh\documents\visual studio 2013\Projects\FastFourieTransform\FFT\bin\Debug\FFT.pdb
+c:\users\7zereh\documents\visual studio 2013\Projects\FastFourieTransform\FFT\obj\Debug\FFT.Form1.resources
+c:\users\7zereh\documents\visual studio 2013\Projects\FastFourieTransform\FFT\obj\Debug\FFT.Properties.Resources.resources
+c:\users\7zereh\documents\visual studio 2013\Projects\FastFourieTransform\FFT\obj\Debug\FFT.csproj.GenerateResource.Cache
+c:\users\7zereh\documents\visual studio 2013\Projects\FastFourieTransform\FFT\obj\Debug\FFT.exe
+c:\users\7zereh\documents\visual studio 2013\Projects\FastFourieTransform\FFT\obj\Debug\FFT.pdb
+C:\Users\7zereh\Documents\Visual Studio 2013\Projects\FastFourieTransform\FFT\obj\Debug\FFT.csprojResolveAssemblyReference.cache
